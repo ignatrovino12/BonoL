@@ -1,0 +1,38 @@
+-Fiecare jucator trebuie sa isi mute piesa in forma de L
+si apoi poate alege daca sa miste una dintre piesele neutre
+sau nu. Jocul este castigat cand oponentul nu isi poate muta
+propria piesa intr-o noua pozitie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Piesa se poate muta oriunde pe tabla, atat timp cat
+nu se suprapune cu cea a oponentulu. De asemenea,
+aceaasta poate fi rotita sau rasturnata.

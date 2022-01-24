@@ -1,0 +1,36 @@
+-Singura regula a jocului este ca piesa trebuie sa fie
+mutata intr-o pozitie diferita fata de cea initiala,
+cu cel putin un patrat.
+-Piesa neutra poate fi mutata oriunde pe tabla, atat timp
+cat nu acopera piesa oponentului sau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Pentru a selecta piesa neutra care va fi mutata, se apasa
+click dreapta pe aceasta si va fi evidentiata. Apoi, pentru a
+o muta, se va apasa click stanga pe pozitia dorita.
+-Jucatorul care isi blocheaza oponentul castiga.

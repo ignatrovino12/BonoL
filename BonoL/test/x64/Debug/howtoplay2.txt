@@ -1,0 +1,32 @@
+-The only rule is that it must end in a different position
+from the position it started, thus covering at least
+one square it did not previously cover.
+-To move a neutral piece, a player simply picks it up
+then places it in an empty square anywhere on the board.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-In order to do that, right click on which neutral piece you
+want to move and it will be highlighted. Then using the left
+ mouse button, choose where exactly you want it to be moved.
+-The player who stalemates his adversary wins.

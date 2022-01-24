@@ -1,0 +1,134 @@
+﻿D:\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (test.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(97,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(333,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(355,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(373,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(378,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(463,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(484,18): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(488,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(492,15): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(493,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(497,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(508,44): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(512,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(516,45): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(517,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(521,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(868,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(935,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1047,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1085,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1091,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1109,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1115,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1145,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1153,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1168,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1234,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1248,29): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1294,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1298,32): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1342,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1350,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1350,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1381,33): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1391,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1406,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1424,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1539,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1540,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1597,98): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1598,99): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1620,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1635,40): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1704,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1721,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1725,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1727,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1728,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1742,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1746,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1748,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1749,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1763,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1767,17): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1769,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1770,100): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1847,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1848,45): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1857,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1870,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1871,45): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1879,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1907,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1908,45): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1916,32): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1929,78): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1930,45): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1938,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1989,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1990,44): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(1998,31): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(2011,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(2012,44): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(2020,30): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\calin\source\repos\BonoL\test\test\Source.cpp(660): warning C4715: 'VerifColor': not all control paths return a value
+  test.vcxproj -> C:\Users\calin\source\repos\BonoL\test\x64\Debug\BonoL.exe

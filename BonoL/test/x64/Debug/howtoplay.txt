@@ -1,0 +1,39 @@
+-On each turn, a player must first move their L piece, and
+then may  optionally move either one of the neutral pieces.
+The game is won by leaving the opponent unable to 
+move their L piece to a new position.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-Pieces may not overlap or cover other pieces. On moving
+the L piece, it is picked up and then
+placed in empty squares anywhere on the board.
+It may be rotated or even flipped over in doing so.
