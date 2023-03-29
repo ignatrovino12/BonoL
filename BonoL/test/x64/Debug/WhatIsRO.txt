@@ -1,0 +1,21 @@
+BonoL este un joc de strategie simplu, abstract,
+inventat de Edward de Bono.
+Acesta a fost introdus in cartea sa
+"The Five-Day Course in Thinking" (1967).
+BonoL se joaca in doi, pe o tabla de 4x4 patrate.
+Fiecare jucator are o piesa 3x2 in forma de L,
+si exista 2 piese neutre 1x1.
+
+
+
+
+
+
+
+
+
+Criteriile sale de dezvoltare a jocului au fost:
+-cat mai putine piese
+-cea mai mica tabla posibila
+-cat mai putine reguli, astfel incat acesta
+sa fie usor de invatat si jucat

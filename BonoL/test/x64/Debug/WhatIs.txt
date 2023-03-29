@@ -1,0 +1,21 @@
+The L game is a simple abstract strategy board
+game invented by Edward de Bono.
+It was introduced in his book
+The Five-Day Course in Thinking (1967).
+The L game is a two-player game played on a board of 4x4 squares.
+Each player has a 3x2 L-shaped tetromino,
+and there are two 1x1 neutral pieces.
+
+
+
+
+
+
+
+
+
+
+His criteria in the development were:
+-as few pieces as possible
+-the smallest possible board
+-as few rules, so it is easy to learn and play
